@@ -1,0 +1,3 @@
+const txHash = "0x7a7258fd680c6b925713aebe3069c73a5b5dd6a371abfaaacc20d145ef4b029b";
+const transactionHash = "0x7a7258fd680c6b925713aebe3069caaa5b5dd6a371abf362cc20d145ef4b029b";
+const privateKey = "0x7a7258fd680c6b925713aaae3069c73a5b5dd6a371abf362cc20d145ef4b029b";
